@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.googlewalletintegration",
+      "package_name": "in.gov.uidai.pehchaan.nonprod",
       "sha256_cert_fingerprints":
-        ["C0:03:50:DA:A1:91:C9:24:29:0B:33:91:EF:EA:1B:66:33:3C:D4:24:27:0B:76:73:50:42:5E:BE:D9:2F:5F:ED","DC:B6:B5:2B:55:B0:63:30:DA:0F:06:2E:A9:2D:45:2E:17:BE:8D:D0:20:29:DE:ED:DE:F8:62:7A:ED:D2:70:98"]
+        ["EE:7F:0E:E8:68:8E:E7:4C:A6:F7:F7:1E:41:19:C7:AD:A1:7C:7B:42:8B:A5:F3:0E:D3:0A:C1:33:5B:B1:09:C7","DC:B6:B5:2B:55:B0:63:30:DA:0F:06:2E:A9:2D:45:2E:17:BE:8D:D0:20:29:DE:ED:DE:F8:62:7A:ED:D2:70:98"]
     }
   }
 ]
