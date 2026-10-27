@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "JM56XFTHH7.in.gov.uidai.pehchaan",
+          "JM56XFTHH7.in.gov.uidai.pehchaan.nonprod"
+        ],
+        "components": [
+          {
+            "/": "/getIntent",
+            "?": { "value": "?*" },
+            "comment": "Verifier intent QR: opens the Aadhaar app instead of the browser"
+          }
+        ]
+      }
+    ]
+  }
+}
